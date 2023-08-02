@@ -1,0 +1,15 @@
+/home/nico/portfolio/C#/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/home/nico/portfolio/C#/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/home/nico/portfolio/C#/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/home/nico/portfolio/C#/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/home/nico/portfolio/C#/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
