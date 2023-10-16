@@ -18,10 +18,14 @@
 // dice.Next()
 
 //MATH CLASS METHODS CHALLENGE
-int firstValue = 500;
-int secondValue = 600;
-int largerValue = Math.Max(firstValue, secondValue);
+// int firstValue = 500;
+// int secondValue = 600;
+// int largerValue = Math.Max(firstValue, secondValue);
 
 
-Console.WriteLine(largerValue);
+// Console.WriteLine(largerValue);
+
+
+//////////////////////////////////////////////////////////////
+
 

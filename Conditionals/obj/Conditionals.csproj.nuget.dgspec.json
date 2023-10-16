@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nico/portfolio/C#/CsharpProjects/TestProject/TestProject.csproj": {}
+    "/home/nico/portfolio/C#/CsharpProjects/Conditionals/Conditionals.csproj": {}
   },
   "projects": {
-    "/home/nico/portfolio/C#/CsharpProjects/TestProject/TestProject.csproj": {
+    "/home/nico/portfolio/C#/CsharpProjects/Conditionals/Conditionals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nico/portfolio/C#/CsharpProjects/TestProject/TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "/home/nico/portfolio/C#/CsharpProjects/TestProject/TestProject.csproj",
+        "projectUniqueName": "/home/nico/portfolio/C#/CsharpProjects/Conditionals/Conditionals.csproj",
+        "projectName": "Conditionals",
+        "projectPath": "/home/nico/portfolio/C#/CsharpProjects/Conditionals/Conditionals.csproj",
         "packagesPath": "/home/nico/.nuget/packages/",
-        "outputPath": "/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/",
+        "outputPath": "/home/nico/portfolio/C#/CsharpProjects/Conditionals/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nico/.nuget/NuGet/NuGet.Config"

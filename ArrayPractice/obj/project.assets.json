@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nico/portfolio/C#/CsharpProjects/TestProject/TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "/home/nico/portfolio/C#/CsharpProjects/TestProject/TestProject.csproj",
+      "projectUniqueName": "/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/ArrayPractice.csproj",
+      "projectName": "ArrayPractice",
+      "projectPath": "/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/ArrayPractice.csproj",
       "packagesPath": "/home/nico/.nuget/packages/",
-      "outputPath": "/home/nico/portfolio/C#/CsharpProjects/TestProject/obj/",
+      "outputPath": "/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nico/.nuget/NuGet/NuGet.Config"

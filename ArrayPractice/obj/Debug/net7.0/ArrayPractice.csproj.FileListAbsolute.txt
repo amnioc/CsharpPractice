@@ -1,0 +1,15 @@
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/bin/Debug/net7.0/ArrayPractice
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/bin/Debug/net7.0/ArrayPractice.deps.json
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/bin/Debug/net7.0/ArrayPractice.runtimeconfig.json
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/bin/Debug/net7.0/ArrayPractice.dll
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/bin/Debug/net7.0/ArrayPractice.pdb
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/obj/Debug/net7.0/ArrayPractice.csproj.AssemblyReference.cache
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/obj/Debug/net7.0/ArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/obj/Debug/net7.0/ArrayPractice.AssemblyInfoInputs.cache
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/obj/Debug/net7.0/ArrayPractice.AssemblyInfo.cs
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/obj/Debug/net7.0/ArrayPractice.csproj.CoreCompileInputs.cache
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/obj/Debug/net7.0/ArrayPractice.dll
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/obj/Debug/net7.0/refint/ArrayPractice.dll
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/obj/Debug/net7.0/ArrayPractice.pdb
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/obj/Debug/net7.0/ArrayPractice.genruntimeconfig.cache
+/home/nico/portfolio/C#/CsharpProjects/ArrayPractice/obj/Debug/net7.0/ref/ArrayPractice.dll

@@ -1,0 +1,15 @@
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/obj/Debug/net7.0/Conditionals.csproj.AssemblyReference.cache
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/bin/Debug/net7.0/Conditionals
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/bin/Debug/net7.0/Conditionals.deps.json
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/bin/Debug/net7.0/Conditionals.dll
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/bin/Debug/net7.0/Conditionals.pdb
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/obj/Debug/net7.0/Conditionals.dll
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/obj/Debug/net7.0/refint/Conditionals.dll
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/obj/Debug/net7.0/Conditionals.pdb
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/home/nico/portfolio/C#/CsharpProjects/Conditionals/obj/Debug/net7.0/ref/Conditionals.dll
